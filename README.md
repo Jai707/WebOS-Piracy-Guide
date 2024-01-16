@@ -10,4 +10,6 @@ Guide to watch/stream torrents without root on LG TV
 7. If you can not find link to a specific title or want to add some other torrent to the app you  can do so by adding magnet link/file in zhilkin.org from your browser.
 
 
+
+If you liked this guide, support me by starring the repo
 Disclaimer:- I dont own/run any of the services
