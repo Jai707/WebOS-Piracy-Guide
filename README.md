@@ -12,4 +12,5 @@ Guide to watch/stream torrents without root on LG TV
 
 
 If you liked this guide, support me by starring the repo
+
 Disclaimer:- I dont own/run any of the services
